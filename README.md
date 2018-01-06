@@ -1,4 +1,3 @@
 # ESTABILL
 
-SAMPLE TESTING
 sample
